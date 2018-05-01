@@ -9,3 +9,5 @@ Allow the amendment of a notice
 Allows the amendment of a note visible in the noticeboard and displayed in a users portal page
 
 ## Core Capability
+
+Core
